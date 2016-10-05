@@ -18,7 +18,7 @@ WHERE pg_stat_activity.datname = 'TARGET_DB'
   AND pid <> pg_backend_pid();
 ```
 
-original post on [http://stackoverflow.com/](http://stackoverflow.com/a/5408501)
+original answer on [http://stackoverflow.com/](http://stackoverflow.com/a/5408501)
 
 ## Might be helpful 
 
